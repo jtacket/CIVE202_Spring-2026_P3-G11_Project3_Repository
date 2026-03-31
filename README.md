@@ -5,12 +5,12 @@ The goal of this project is to analyze the National Household Travel Survey (NHT
 
 ## Link to the raw data and codes
 ### Raw data from NGSIM and NHTS of transportation data
-[open raw data file NGSIM](CIVE202_Spring_2026_P3-G11_Project3_RawData(1).csv)
+[open raw data file NGSIM](CIVE202_Spring2026_P3-G11_Project3_RawData(1).csv)
 
-[open raw data file NHTS](CIVE202_Spring_2026_P3-G11_Project3_RawData(2).csv)
+[open raw data file NHTS](CIVE202_Spring2026_P3-G11_Project3_RawData(2).csv)
 
 ### Python Notebook containing the code
-[open notebook](CIVE202_Spring_2026_Group11_Project3_PythonCode.ipynb)
+[open notebook](CIVE202_Spring2026_Group11_Project3_PythonCode.ipynb)
 
 ## Analysis of the data
 ### Written Report
@@ -20,7 +20,7 @@ The goal of this project is to analyze the National Household Travel Survey (NHT
 [open scope of work](CIVE202_Spring_2026_P3-G11_Project3_ScopeofWork.doxc.docx)
 
 ### Annotated Code Document
-[open annotated code](CIVE202_Spring_2026_Group11_Project3_AnnotatedCode.xlsx)
+[open annotated code](CIVE202_Spring2026_Group11_Project3_AnnotatedCode.xlsx)
 
 ### Other Materials
 ### Gantt Chart
