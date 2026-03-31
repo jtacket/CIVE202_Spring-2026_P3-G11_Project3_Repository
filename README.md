@@ -24,7 +24,7 @@ The goal of this project is to analyze the National Household Travel Survey (NHT
 
 ### Other Materials
 ### Gantt Chart
-[open gantt chart](CIVE202_Spring_2025_Group6_Project2_GanttChart.xlsx)
+[open gantt chart](CIVE202_Spring2026_P3-G11_Project3_GanttChart.xlsx)
 
 ### Time Sheet
 [open time sheet](CIVE202_Spring2026_P3-G11_Project3_Timesheet.xlsx)
